@@ -17,7 +17,7 @@ const proj_data = [
     proj_creation_date: "",
     project_image: resume,
     proj_code_like: "https://github.com/VaibhavYadav06/portfolio-1",
-    proj_live_link: "#",
+    proj_live_link: "https://portfolio-1-amber.vercel.app/",
   },
   {
     id: 3,
