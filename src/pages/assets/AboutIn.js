@@ -29,7 +29,7 @@ const personal_info_data = [
       {
         index: 2,
         data_type: "Email",
-        data_value: "vaibhavyadavkvmca@gmail.com",
+        data_value: "vaibhavyadavkvnca@gmail.com",
         icon_class: "fa-solid fa-envelope",
         ic_color: "#00838F",
       },
