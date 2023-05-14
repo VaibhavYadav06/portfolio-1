@@ -8,7 +8,7 @@ import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const Contact = (props) => {
-  const url = "https://port-web-app.onrender.com/user-message";
+  const url = "vaibhavyadavkvnca@gmail.com";
   const [pvalue, setPvalue] = useState(0);
   const [userMsg, setUserMsg] = useState({
     name: "",
